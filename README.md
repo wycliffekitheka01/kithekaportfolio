@@ -1,4 +1,4 @@
-# 📊 Data Analyst Portfolio  
+# 📊 Kitheka's Portfolio
 
 Hi, I'm **Wycliffe Mwaniki Kitheka** — a professional **Data Analyst** with expertise in extracting insights from complex datasets and presenting them in clear, actionable ways.  
 I am skilled in **Python, R, SQL, Excel, Power BI, and SPSS**, I apply analytical and statistical techniques to support evidence-based decision-making.
@@ -13,4 +13,14 @@ Passionate about leveraging data to deliver innovative solutions that create mea
 This repository highlights some of my projects where I explore, clean, and analyze datasets using industry-standard tools.  
 Each project demonstrates my ability to work with data, uncover insights, and communicate results effectively.  
 
+## 📊 Excel Projects  
+
+Excel is one of the most versatile tools for data analysis.  
+I use it for:  
+- Cleaning and organizing raw datasets.  
+- Building pivot tables and charts to summarize information.  
+- Performing descriptive and inferential statistical analysis.  
+- Designing dashboards that communicate insights clearly.  
+
+Excel is often the first step in my workflow, especially when working with stakeholders who need straightforward reports and visualizations.  
 
