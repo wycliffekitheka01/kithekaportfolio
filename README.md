@@ -23,4 +23,16 @@ I use it for:
 - Designing dashboards that communicate insights clearly.  
 
 Excel is often the first step in my workflow, especially when working with stakeholders who need straightforward reports and visualizations.  
+### 1️⃣ Dataset Analysis 
+This Excel file contains the raw and cleaned dataset I used for analysis. It demonstrates:  
+- Data cleaning and organization  
+- Pivot tables and charts  
+- Descriptive and inferential statistical analysis  
 
+[View/Download Dataset](./Book2.xlsx)  
+
+### 2️⃣ Analysis Report 
+This Word document contains a detailed analysis of the dataset, including insights, observations, and key recommendations.  
+It complements the Excel dataset by explaining the findings in depth.  
+
+[View/Download Report](./Report.docx)
