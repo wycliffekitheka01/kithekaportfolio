@@ -29,10 +29,10 @@ This Excel file contains the raw and cleaned dataset I used for analysis. It dem
 - Pivot tables and charts  
 - Descriptive and inferential statistical analysis  
 
-[View/Download Dataset](./Book2.xlsx)  
+[View](./Book2.xlsx)  
 
 ### 2️⃣ Analysis Report 
 This Word document contains a detailed analysis of the dataset, including insights, observations, and key recommendations.  
 It complements the Excel dataset by explaining the findings in depth.  
 
-[View/Download Report](./Report.docx)
+[View](./Report.docx)
