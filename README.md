@@ -1,42 +1,16 @@
-# kithekaportfolio
-Data analyst Portfolio 
-# 📊 Data Analyst Portfolio
+# 📊 Data Analyst Portfolio  
 
-Welcome to my data analysis portfolio!  
-This repository showcases some of my projects where I explore, clean, and analyze datasets using different tools such as **Excel, Python, SQL, and Power BI**.  
-
----
-
-## 🗂 PROJECT 1: Sales Analysis (Excel)
-
-### 📌 Overview
-This project analyzes sales data using Microsoft Excel.  
-The goal was to identify sales trends, customer segments, and seasonal patterns.  
-
-### 🛠 Tools Used
-- Microsoft Excel  
-  - PivotTables  
-  - Charts & Graphs  
-  - Conditional Formatting  
-
-### 🔑 Key Insights
-- Sales peak in **Quarter 4 (Q4)**.  
-- Young adults account for the majority of purchases.  
-- Region A outperforms Region B by 20%.  
-
-### 📂 Files
-- [Download PROJECT 1 (Excel File)](./PROJECT%201.xlsx)  
+Hi, I'm **Wycliffe Mwaniki Kitheka** — a professional **Data Analyst** with expertise in extracting insights from complex datasets and presenting them in clear, actionable ways.  
+I am skilled in **Python, R, SQL, Excel, Power BI, and SPSS**, I apply analytical and statistical techniques to support evidence-based decision-making.
+I am proficient in both **descriptive and inferential statistics** — using descriptive methods to summarize and visualize data trends, and inferential techniques to test hypotheses, uncover relationships, and make reliable predictions.  
+This balance ensures that my analyses not only explain what has happened but also provide insights into why it happened and what is likely to occur next.
+I specialize in transforming raw data into meaningful reports and dashboards that improve efficiency, guide strategy, and drive organizational growth.  
+Passionate about leveraging data to deliver innovative solutions that create measurable impact.
 
 ---
 
-## 🚀 How to Use
-1. Click the link above to download the Excel file.  
-2. Open in Microsoft Excel.  
-3. Explore the dashboards, charts, and pivot tables.  
+## 📂 About This Portfolio  
+This repository highlights some of my projects where I explore, clean, and analyze datasets using industry-standard tools.  
+Each project demonstrates my ability to work with data, uncover insights, and communicate results effectively.  
 
----
 
-## 👨‍💻 Author
-- **Wycliffe Mwaniki Kitheka** (Data Analyst)  
-- [LinkedIn Profile](https://www.linkedin.com/)  
-- [Email](mailto:your.email@example.com)  
